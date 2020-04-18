@@ -1,0 +1,15 @@
+Component   : HDR1X5_2.54_90F
+PCB Library : PCB_ConnectorHDR.PcbLib
+Date        : 18/04/2020
+Time        : 8:31:20 a. m.
+
+
+
+Dimension : 11.227 x 12.954 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                 5          0        0       0        0
+ Top Overlay                 0          8        0       0        0
+--------------------------------------------------------------------
+ Total                       5          8        0       0        0
