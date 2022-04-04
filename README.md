@@ -1,3 +1,3 @@
 # AltiumLibrary
 
-Private TECREA repository with integrated library files.
+Repository with integrated library files.
